@@ -1,0 +1,16 @@
+git 
+===
+
+git config --list 	#username pasword registration
+create a repository in git hub
+give name
+copy http url of repository 
+in gitbash, 
+git clone repository-link 
+upload files to repository folder in lappy
+git status (red files)
+git add .
+git status (green files)
+git commit -m 'Hello'
+git push --all (github public url)
+
